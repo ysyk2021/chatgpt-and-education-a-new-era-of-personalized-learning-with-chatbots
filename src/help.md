@@ -17,6 +17,6 @@
 17. Teacher training and professional development
 18. Assessment and evaluation in personalized learning
 19. Educational psychology and cognitive science
-20. Technology integration in the classroom.
+20. Technology integration in the classroom
 
 
