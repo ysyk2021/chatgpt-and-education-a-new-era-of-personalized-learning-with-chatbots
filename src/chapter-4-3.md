@@ -3,11 +3,6 @@ Advantages of Using ChatGPT in Personalized Learning
 
 In this chapter, we will introduce ChatGPT and explore the advantages of using it in personalized learning. ChatGPT is a natural language processing (NLP) based chatbot that uses machine learning algorithms to generate human-like responses to student queries.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-based chatbot developed by OpenAI that uses a transformer-based language model to generate human-like responses to text-based queries. It is capable of conducting conversations on a wide range of topics and can be used in various contexts, including education.
-
 Advantages of Using ChatGPT in Personalized Learning
 ----------------------------------------------------
 
