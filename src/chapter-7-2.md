@@ -1,5 +1,4 @@
-The Future of Chatbots and AI in Education
-===================================================================================================================
+
 
 In this chapter, we will explore the future of chatbots and AI in education. As technology continues to evolve, chatbots and AI have the potential to transform education in significant ways.
 

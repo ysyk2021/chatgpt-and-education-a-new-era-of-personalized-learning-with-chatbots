@@ -1,5 +1,4 @@
-What is Personalized Learning?
-==============================================================================
+
 
 Personalized learning is an approach to education that tailors the learning experience to meet the individual needs, interests, and abilities of each student. This approach aims to create a more engaging, effective, and efficient learning experience by adapting teaching methods, materials, and assessments to the unique needs of each student.
 

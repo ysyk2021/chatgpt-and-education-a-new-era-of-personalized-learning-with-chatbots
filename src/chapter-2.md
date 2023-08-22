@@ -1,5 +1,4 @@
-Chapter 1: Understanding Personalized Learning
-==============================================
+
 
 What is Personalized Learning?
 ------------------------------

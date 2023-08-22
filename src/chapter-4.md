@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 ChatGPT is a state-of-the-art natural language processing AI model developed by OpenAI. In this chapter, we will explore what ChatGPT is, its features, advantages of using it in personalized learning, and some case studies on its use in education.
 

@@ -1,5 +1,4 @@
-Advantages of Using Chatbots and AI in Education
-=========================================================================================
+
 
 The use of chatbots and AI in education has the potential to revolutionize the way we approach teaching and learning. In this chapter, we will explore some of the advantages of using chatbots and AI in education.
 

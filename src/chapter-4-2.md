@@ -1,5 +1,4 @@
-The Features of ChatGPT
-===========================================================
+
 
 In this chapter, we will introduce the features of ChatGPT, an AI-based chatbot developed by OpenAI that uses a transformer-based language model to generate human-like responses to text-based queries.
 
