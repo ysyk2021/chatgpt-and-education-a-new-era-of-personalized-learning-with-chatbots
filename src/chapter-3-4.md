@@ -1,5 +1,4 @@
 
-
 While the potential benefits of using chatbots in education are significant, there are also challenges and limitations to their use. In this chapter, we will explore some of the most pressing challenges and limitations of using chatbots in education.
 
 Challenge #1: Ensuring Accuracy and Relevance
@@ -31,5 +30,3 @@ Conclusion
 ----------
 
 While chatbots and AI have the potential to revolutionize education by providing personalized and engaging learning experiences, it is important to recognize the challenges and limitations associated with their use. By addressing these challenges and limitations through careful design, training, and monitoring, we can leverage the power of chatbots to enhance the learning experience for students.
-
-

@@ -1,5 +1,4 @@
 
-
 ChatGPT is a state-of-the-art natural language processing AI model developed by OpenAI. It is designed to generate human-like responses to text-based prompts, and has been trained on vast amounts of textual data to achieve a high level of accuracy and fluency.
 
 How Does ChatGPT Work?

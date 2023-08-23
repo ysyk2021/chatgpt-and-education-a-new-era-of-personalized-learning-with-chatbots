@@ -1,5 +1,4 @@
 
-
 Chatbots and AI have the potential to revolutionize education by providing personalized and engaging learning experiences. In this chapter, we will explore some of the different types of chatbots used in education.
 
 Informational Chatbots

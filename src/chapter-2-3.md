@@ -1,7 +1,4 @@
 
-
-
-
 Personalized learning is an approach to education that tailors the learning experience to meet the individual needs, interests, and abilities of each student. There are various types of personalized learning techniques used today. This chapter aims to provide an overview of these techniques.
 
 Different Types of Personalized Learning Techniques

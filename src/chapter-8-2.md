@@ -1,5 +1,4 @@
 
-
 The use of ChatGPT and other AI technologies in education offers several implications and significance for the future of personalized learning. In this chapter, we will explore these implications and significance.
 
 Implications
