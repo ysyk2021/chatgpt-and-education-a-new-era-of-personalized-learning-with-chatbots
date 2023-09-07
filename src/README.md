@@ -8,3 +8,7 @@ This book is divided into six chapters that cover the basics of personalized lea
 Whether you are a teacher, administrator, or policymaker, this book will provide valuable insights into the ways that ChatGPT technology can help you create a more tailored and effective learning environment. By following best practices for implementation and leveraging the power of AI, educators can optimize their teaching and stay ahead of the curve in the ever-evolving world of education.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
