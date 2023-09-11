@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works in Personalized Learning
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how ChatGPT, a state-of-the-art chatbot powered by OpenAI's GPT technology, works in personalized learning. As a powerful tool for personalized educational interactions, ChatGPT leverages natural language processing (NLP) and machine learning to provide personalized, adaptive, and engaging support to learners.
 

@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced chatbot powered by OpenAI's GPT (Generative Pre-trained Transformer) technology. As a state-of-the-art language model, ChatGPT enables conversational interactions with users, offering a wide range of applications in the field of education. This chapter provides an overview of ChatGPT, its capabilities, and its potential impact on personalized learning.
 

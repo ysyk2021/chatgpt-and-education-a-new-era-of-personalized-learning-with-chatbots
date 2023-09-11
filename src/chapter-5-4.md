@@ -1,5 +1,4 @@
-Chapter: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Personalized Learning
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we present several case studies that highlight the effectiveness of ChatGPT in improving personalized learning experiences. These case studies demonstrate how ChatGPT's advanced capabilities, such as natural language processing, machine learning, and adaptive tutoring, have positively impacted learners' engagement, knowledge acquisition, and academic performance.
 

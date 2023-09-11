@@ -1,5 +1,4 @@
-Chapter: Evaluating ChatGPT's Performance and Effectiveness in Personalized Learning
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the performance and effectiveness of ChatGPT is crucial to understanding its impact on personalized learning experiences. This chapter examines various evaluation methods and metrics used to assess ChatGPT's performance, as well as the overall effectiveness of personalized learning facilitated by this chatbot technology.
 

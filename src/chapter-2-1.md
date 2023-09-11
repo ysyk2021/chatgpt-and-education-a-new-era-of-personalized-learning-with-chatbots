@@ -1,5 +1,4 @@
-Chapter: What is Personalized Learning?
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Personalized learning is a pedagogical approach that aims to tailor education to the unique needs, interests, and learning styles of individual learners. In this chapter, we explore the principles, strategies, and benefits of personalized learning, highlighting its transformative potential in the field of education.
 

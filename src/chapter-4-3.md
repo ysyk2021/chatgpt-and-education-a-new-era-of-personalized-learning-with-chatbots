@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Personalized Learning
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Using ChatGPT in personalized learning opens up a new era of educational possibilities. This chapter delves into the advantages and benefits of harnessing ChatGPT for personalized learning experiences, highlighting how this technology can transform the educational landscape.
 

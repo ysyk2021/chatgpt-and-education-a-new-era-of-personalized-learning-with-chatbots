@@ -1,5 +1,4 @@
-Chapter: Types of Personalized Learning Techniques Used Today
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore various personalized learning techniques that are widely used in education today. These techniques leverage technology, data, and instructional strategies to tailor learning experiences to the unique needs, interests, and abilities of individual learners.
 

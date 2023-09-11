@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Personalized Learning
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Planning and designing ChatGPT for personalized learning is crucial to ensure that the chatbot effectively caters to the unique needs and goals of individual learners. This chapter explores key considerations and strategies to create a well-designed ChatGPT system that optimizes personalized learning experiences.
 

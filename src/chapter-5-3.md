@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Personalized Learning
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how ChatGPT utilizes data to enhance personalized learning experiences. Through the analysis of learner interactions and feedback, ChatGPT leverages data-driven insights to adapt instruction, provide targeted support, and optimize the learning journey.
 

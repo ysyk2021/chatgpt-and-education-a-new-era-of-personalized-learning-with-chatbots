@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training ChatGPT and managing conversations are critical aspects of utilizing this powerful chatbot for personalized learning. This chapter delves into the training process of ChatGPT and explores techniques for effectively managing conversations to ensure productive and safe interactions in an educational context.
 

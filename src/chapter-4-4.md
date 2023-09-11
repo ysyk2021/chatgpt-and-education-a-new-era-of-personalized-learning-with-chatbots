@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT in Education
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine real-world case studies that demonstrate the application and impact of ChatGPT in education. These case studies showcase how ChatGPT, as a conversational AI chatbot, has been utilized to enhance personalized learning experiences, support learners, and augment educators' roles.
 

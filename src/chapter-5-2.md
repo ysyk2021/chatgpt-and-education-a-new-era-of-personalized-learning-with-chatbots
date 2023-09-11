@@ -1,5 +1,4 @@
-Chapter: Personalization Techniques Used in ChatGPT for Education
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various personalization techniques employed by ChatGPT to enhance education and create personalized learning experiences. By leveraging advanced AI capabilities, ChatGPT tailors content, instruction, and support to meet the unique needs and preferences of individual learners.
 

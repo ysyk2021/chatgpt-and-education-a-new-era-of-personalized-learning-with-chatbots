@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Personalized Learning
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While personalized learning holds great promise for transforming education, it is important to acknowledge and address the limitations and challenges associated with its implementation. This chapter explores some of the key considerations and potential obstacles that educators and learners may encounter when engaging in personalized learning experiences.
 

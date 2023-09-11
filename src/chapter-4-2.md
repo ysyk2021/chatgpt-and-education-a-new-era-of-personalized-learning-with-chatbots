@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is a revolutionary chatbot technology that has the potential to transform personalized learning experiences. This chapter explores some of the key features and capabilities of ChatGPT, highlighting the ways in which this technology can enhance the educational landscape.
 
